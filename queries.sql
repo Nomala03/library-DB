@@ -28,7 +28,7 @@ DELETE FROM books WHERE title = 'Moby-Dick';
 -- Delete an author by ID
 DELETE FROM authors WHERE id = 5;
 
---ADVANCED QUERIES
+--ADVANCED
 -- Books published after 1950
 SELECT * FROM books WHERE published_year > 1950;
 
