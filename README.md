@@ -22,4 +22,4 @@ In pgAdmin, right-click → Query Tool → select LibraryDB.
 
 Create the required tables: Books, Authors, Patrons & insert sample data.
 
-### 4. Run queris step by step
+### 4. Run queries step by step from queries.sql file
